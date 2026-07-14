@@ -434,7 +434,7 @@
     <div class="divider"></div>
 
     <p class="signoff">Com todo orgulho e amor do mundo,
-      <span class="who">quem vai te levar pra jantar hoje 🥂</span>
+      <span class="who">- Joll</span>
     </p>
 
     <div class="badge-row"><span></span><span></span><span></span></div>
